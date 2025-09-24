@@ -1,52 +1,52 @@
 state_name,statefip,state_shmarried
-Alabama,alabama,61.696819
-Alaska,alaska,54.380474
-Arizona,arizona,62.972778
-Arkansas,arkansas,62.712429
-California,california,65.872032
-Colorado,colorado,73.195969
-Connecticut,connecticut,69.741928
-Delaware,delaware,59.858246
-District Of Columbia,district of columbia,67.61364
-Florida,florida,63.812344
-Georgia,georgia,65.371071
-Hawaii,hawaii,65.376022
-Idaho,idaho,77.321815
-Illinois,illinois,69.148094
-Indiana,indiana,67.627541
-Iowa,iowa,71.278824
-Kansas,kansas,71.982071
-Kentucky,kentucky,64.842827
-Louisiana,louisiana,56.922894
-Maine,maine,67.62075
-Maryland,maryland,69.598259
-Massachusetts,massachusetts,71.014137
-Michigan,michigan,68.742668
-Minnesota,minnesota,75.927299
-Mississippi,mississippi,56.70491
-Missouri,missouri,68.06562
-Montana,montana,71.090912
-Nebraska,nebraska,73.49157
-Nevada,nevada,61.431194
-New Hampshire,new hampshire,72.975349
-New Jersey,new jersey,73.275909
-New Mexico,new mexico,51.495106
-New York,new york,67.793747
-North Carolina,north carolina,65.820389
-North Dakota,north dakota,78.375412
-Ohio,ohio,65.996674
-Oklahoma,oklahoma,62.84808
-Oregon,oregon,68.982399
-Pennsylvania,pennsylvania,69.056488
-Rhode Island,rhode island,65.828499
-South Carolina,south carolina,64.580437
-South Dakota,south dakota,70.028412
-Tennessee,tennessee,65.561691
-Texas,texas,67.15377
-Utah,utah,81.599411
-Vermont,vermont,69.621422
-Virginia,virginia,70.96582
-Washington,washington,71.515427
-West Virginia,west virginia,63.154514
-Wisconsin,wisconsin,73.231163
-Wyoming,wyoming,67.021278
+Alabama,alabama,0.384918715
+Alaska,alaska,1.334934434
+Arizona,arizona,4.116274859
+Arkansas,arkansas,25.99629644
+California,california,71.64336514
+Colorado,colorado,98.13663156
+Connecticut,connecticut,46.22584991
+Delaware,delaware,41.78562225
+District Of Columbia,district of columbia,53.23215113
+Florida,florida,68.39780804
+Georgia,georgia,5.176783603
+Hawaii,hawaii,61.0424991
+Idaho,idaho,81.44801868
+Illinois,illinois,15.00912767
+Indiana,indiana,91.24371815
+Iowa,iowa,23.22688109
+Kansas,kansas,73.73609745
+Kentucky,kentucky,91.29841565
+Louisiana,louisiana,28.32765698
+Maine,maine,77.1479731
+Maryland,maryland,30.10548084
+Massachusetts,massachusetts,79.66880172
+Michigan,michigan,40.15713055
+Minnesota,minnesota,22.31952427
+Mississippi,mississippi,81.34397853
+Missouri,missouri,57.42331915
+Montana,montana,76.2813503
+Nebraska,nebraska,73.80257629
+Nevada,nevada,88.91125893
+New Hampshire,new hampshire,80.10183978
+New Jersey,new jersey,0.06798503
+New Mexico,new mexico,26.25911934
+New York,new york,2.645557562
+North Carolina,north carolina,86.35518125
+North Dakota,north dakota,9.964167701
+Ohio,ohio,5.301950871
+Oklahoma,oklahoma,44.36187645
+Oregon,oregon,20.42210952
+Pennsylvania,pennsylvania,81.50536697
+Rhode Island,rhode island,63.42061894
+South Carolina,south carolina,66.43448191
+South Dakota,south dakota,20.28029788
+Tennessee,tennessee,49.65727941
+Texas,texas,12.87008549
+Utah,utah,19.69953061
+Vermont,vermont,20.7409676
+Virginia,virginia,3.793749316
+Washington,washington,28.50850588
+West Virginia,west virginia,11.15883571
+Wisconsin,wisconsin,73.26465611
+Wyoming,wyoming,1.407892367
